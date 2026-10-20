@@ -4,10 +4,6 @@
 <h1 align="center"><strong>only ItaFushi</strong></h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/11/b7/37/11b7372d11147dcbde7ce279174a214a.gif" width="500">
-</p>
-$$
-{\color{#FFFFFF}{i}}\,{\color{#F0F0F0}{l}}{\color{#E8E8E8}{o}}{\color{#DEDEDE}{v}}{\color{#D5D5D5}{e}}\,{\color{#C9C9C9}{m}}{\color{#BFBFBF}{y}}\,{\color{#B0B0B0}{b}}{\color{#A6A6A6}{o}}{\color{#999999}{y}}{\color{#8C8C8C}{f}}{\color{#808080}{r}}{\color{#737373}{i}}{\color{#666666}{e}}{\color{#595959}{n}}{\color{#4D4D4D}{d}}
-$$
 
 <!--
 **Winterany/Winterany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
